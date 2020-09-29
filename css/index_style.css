@@ -162,7 +162,8 @@ body {
 
 
 #arribaestatico{
-
+width: 100%;
+height: 15%;
 position: fixed;
 top: 0px;
 left:0px;      /**estilos de la imagen pricupal en las secciones*/
