@@ -260,8 +260,8 @@ z-index: 1;
 
 }
 .princisecc .articulo {
-  width: 1080px;
-  height: 720px;
+  width: 80%;
+  height: 780px;
   position: relative;
   left:162px;
 	padding:20px;    /*ESTILOS DEL LUGAR DONDE IRÁ LA INFORMACION*/
@@ -270,6 +270,8 @@ z-index: 1;
   border-radius:10px;
 }
 .princisecc .articulo p {
+  width: 100%;
+  height: 100%;
 	margin-bottom: 20px;
 	line-height:24px;
 	font-family:helvetica, arial, sans-serif;
